@@ -6,7 +6,7 @@
 This repository provides a curated list of research papers and resources related to **agentic AI in spatio-temporal**. The collection covers works on geospatial analysis, remote sensing and Earth observation, urban planning, mobility and transportation, and spatio-temporal decision support. Agentic AI refers to artificial intelligence systems that can autonomously reason, plan, and act over spatial and temporal environments, often leveraging large language models, multi-agent architectures, external tool use, and domain-specific knowledge sources.
 
 
-<div align=center><img src="https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST/blob/main/figs/agentic.png"/></div>
+<div align=center><img src="https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST/blob/main/figs/agentic.png" width="500"/></div>
 
 We will try to keep this list updated. If you find any errors or any missing paper, please don't hesitate to open issues or pull requests.
 s
@@ -94,7 +94,7 @@ Interpretable Multimodal Reasoning and Scalable Remote Sensing Analysis [[pdf]](
 
 - **[CVPR 2024]** GeoLLM-Engine: A Realistic Environment for Building Geospatial Copilots [[pdf]](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Singh_GeoLLM-Engine_A_Realistic_Environment_for_Building_Geospatial_Copilots_CVPRW_2024_paper.pdf)
 
-- **[ICLR 2024': ML4RS workshop]**Evaluating tool-augmented agents in remote sensing platforms [[pdf]](https://arxiv.org/pdf/2405.00709)
+- **[ICLR 2024: ML4RS workshop]** Evaluating tool-augmented agents in remote sensing platforms [[pdf]](https://arxiv.org/pdf/2405.00709)
 
 - **[NerurIPS 2024]** Large language models as urban residents: An llm agent framework 
 for personal mobility generation [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2024/file/e142fd2b70f10db2543c64bca1417de8-Paper-Conference.pdf) [[code]](https://github.com/Wangjw6/LLMob/)
