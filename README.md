@@ -26,6 +26,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ### Year 2026
 - **![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369) [arXiv 2026] A Comprehensive Survey of Agentic AI for Spatio-Temporal Data** [[pdf]](https://arxiv.org/abs/xxxx.xxxxx)
 
+- **[arXiv 2026]** Agentic AI in Remote Sensing: Foundations, Taxonomy, and Emerging Systems [[pdf]](https://arxiv.org/pdf/2601.01891)
+
 ### Year 2025
 - **[International Journal of GIS]** GeoCogent: An LLM-Based Agent for Geospatial Code Generation [[pdf]](https://www.researchgate.net/profile/Shuyang-Hou/publication/394842371_GeoCogent_an_LLM-based_agent_for_geospatial_code_generation/links/68a82da61bee4d42a24206f0/GeoCogent-an-LLM-based-agent-for-geospatial-code-generation.pdf)
 
@@ -103,3 +105,8 @@ for personal mobility generation [[pdf]](https://proceedings.neurips.cc/paper_fi
 goal-directed city navigation without instructions [[pdf]](https://arxiv.org/pdf/2408.04168) [[code]](https://anonymous.4open.science/r/PReP-13B5)
 
 - **[NerurIPS 2024]** Geoagent: To empower llms using geospatial tools for address standardization [[pdf]](https://aclanthology.org/2024.findings-acl.362.pdf) [[code]](https://github.com/chenghuahuang/GeoAgent)
+
+- **[arXiv 2024]** Geode: A Zero-shot Geospatial Question-Answering Agent with Explicit Reasoning and Precise Spatio-Temporal Retrieval [[pdf]](https://arxiv.org/pdf/2407.11014?)
+
+
+
