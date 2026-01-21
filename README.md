@@ -24,11 +24,43 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ## 📌 Latest Papers
 
 ### Year 2026
-- **![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369) [arXiv 2026] A Comprehensive Survey of Agentic AI for Spatio-Temporal Data** [[pdf]](https://arxiv.org/abs/xxxx.xxxxx)
+- **![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369) [arXiv 2026] A Comprehensive Survey of Agentic AI for Spatio-Temporal Data** [[pdf]](https://arxiv.org/abs/xxxx.xxxxx) [[paper list]](https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST)
 
 - **[arXiv 2026]** Agentic AI in Remote Sensing: Foundations, Taxonomy, and Emerging Systems [[pdf]](https://arxiv.org/pdf/2601.01891)
 
 ### Year 2025
+
+- **[arXiv 2025]** GeoSR: Cognitive-Agentic Framework for Probing Geospatial Knowledge Boundaries via Iterative Self-Refinement [[pdf]](https://arxiv.org/pdf/2508.04080) [[code]](https://github.com/JinfanTang/GeoSR)
+
+- **[Earth arXiv 2025]** Intelligent National Map: A Vision for Distributed and Agentic Geospatial Intelligence (Vision paper) [[pdf]](https://eartharxiv.org/repository/object/10064/download/18643/)
+
+- **[Frontiers in Planet Science]** Agentic AI for smart and sustainable precision agriculture [[pdf]](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1706428/full)
+
+- **[International Journal of Applied Earth Observation and Geoinformation]** GeoGraphRAG: A graph-based retrieval-augmented generation approach for empowering large language models in automated geospatial modeling [[pdf]](https://www.sciencedirect.com/science/article/pii/S1569843225003590)
+
+- **[International Journal of Applied Earth Observation and Geoinformation]** GeoCode-GPT: A large language model for geospatial code generation [[pdf]](https://www.sciencedirect.com/science/article/pii/S1569843225001037)
+
+- **[arXiv 2025]** Agentic UAVs: LLM-Driven Autonomy with Integrated Tool-Calling and Cognitive Reasoning [[pdf]](https://arxiv.org/pdf/2509.13352)
+
+- **[arXiv 2025]** RingMo-Agent: A Unified Remote Sensing Foundation Model for Multi-Platform and Multi-Modal Reasoning [[pdf]](https://arxiv.org/pdf/2507.20776)
+
+- **[arXiv 2025]** Empowering LLM Agents with Geospatial Awareness: Toward Grounded Reasoning for Wildfire Response
+[[pdf]](https://arxiv.org/pdf/2510.12061)
+
+- **[arXiv 2025]** MineAgent: Towards remote-sensing mineral exploration with multimodal large language models [[pdf]](https://arxiv.org/pdf/2412.17339)
+
+- **[EMNLP 2025]** STA-CoT: Structured Target-Centric Agentic Chain-of-Thought for Consistent Multi-Image Geological Reasoning [[pdf]](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-emnlp.1386.pdf)
+
+- **[International Journal of GIS]** CartoAgent: a multimodal large language model-powered multi-agent cartographic framework for map style transfer and evaluation [[pdf]](https://arxiv.org/pdf/2505.09936) [[code]](https://github.com/Bonj0ur/MapStyleTransfer)
+
+
+- **[DARES 2025]** DA4DTE: An agentic system for enhancing the accessibility of Digital Twins of Earth [[pdf]](https://dares25.github.io/papers/DARES25_paper_14.pdf) [[code]](https://github.com/rsim-tu-berlin/DA4DTE/)
+
+- **[arXiv 2025]** UAVs Meet Agentic AI: A Multidomain Survey of Autonomous Aerial Intelligence and Agentic UAVs [[pdf]](https://arxiv.org/pdf/2506.08045)
+
+- **[International Journal of Digital Earth]** GIS copilot: Towards an autonomous GIS agent for spatial analysis [[pdf]](https://www.tandfonline.com/doi/pdf/10.1080/17538947.2025.2497489?) [[code]](https://shorturl.at/vRcm6) [[data]](https://shorturl.at/bI4Ep)
+
+
 - **[International Journal of GIS]** GeoCogent: An LLM-Based Agent for Geospatial Code Generation [[pdf]](https://www.researchgate.net/profile/Shuyang-Hou/publication/394842371_GeoCogent_an_LLM-based_agent_for_geospatial_code_generation/links/68a82da61bee4d42a24206f0/GeoCogent-an-LLM-based-agent-for-geospatial-code-generation.pdf)
 
 - **[arXiv 2025]** Multi-Agent Geospatial Copilots for Remote Sensing Workflows [[pdf]](https://arxiv.org/pdf/2501.16254?)
