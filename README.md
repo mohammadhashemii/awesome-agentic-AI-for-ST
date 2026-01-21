@@ -143,68 +143,71 @@ goal-directed city navigation without instructions [[pdf]](https://arxiv.org/pdf
 
 ## 📚 Papers by Application Category
 
-### 🗺️ Geospatial Reasoning & Question Answering  
+## 🗺️ Geospatial Reasoning & Question Answering  
 *Agent role: Spatial Analyst / GIS Query Agent*
 
 | Title | Venue | Year | Paper | Code |
 |------|-------|------|-------|------|
-| GeoSR: Cognitive-Agentic Framework for Probing Geospatial Knowledge Boundaries | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2508.04080) | [code](https://github.com/JinfanTang/GeoSR) |
+| GeoSR: Cognitive-Agentic Framework for Probing Geospatial Knowledge Boundaries via Iterative Self-Refinement | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2508.04080) | [code](https://github.com/JinfanTang/GeoSR) |
 | Intelligent National Map: A Vision for Distributed and Agentic Geospatial Intelligence | EarthArXiv | 2025 | [pdf](https://eartharxiv.org/repository/object/10064/download/18643/) | - |
-| GeoAgent: An Agentic AI Framework for Spatial Query Understanding | SIGSPATIAL | 2025 | [pdf](https://dl.acm.org/doi/abs/10.1145/3764915.3770719) | - |
-| MapAgent: Hierarchical Agent for Geospatial Reasoning | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2509.05933) | - |
-| GeoQA Portal: Natural Language Interaction with Geospatial Data | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2503.14251) | - |
-| GeoBenchX: Benchmarking Multistep Geospatial Tasks | SIGSPATIAL | 2025 | [pdf](https://dl.acm.org/doi/abs/10.1145/3764915.3770721) | [code](https://github.com/Solirinai/GeoBenchX) |
-| Geode: Zero-shot Geospatial QA Agent | arXiv | 2024 | [pdf](https://arxiv.org/pdf/2407.11014) | - |
+| GeoAgent: An Agentic AI Framework for Spatial Query Understanding and Interactive Geospatial Intelligence | SIGSPATIAL | 2025 | [pdf](https://dl.acm.org/doi/abs/10.1145/3764915.3770719) | - |
+| MapAgent: A Hierarchical Agent for Geospatial Reasoning with Dynamic Map Tool Integration | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2509.05933) | - |
+| Towards a Barrier-free GeoQA Portal: Natural Language Interaction with Geospatial Data Using Multi-Agent LLMs and Semantic Search | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2503.14251) | - |
+| GeoBenchX: Benchmarking LLMs in Agent Solving Multistep Geospatial Tasks | SIGSPATIAL | 2025 | [pdf](https://dl.acm.org/doi/abs/10.1145/3764915.3770721) | [code](https://github.com/Solirinai/GeoBenchX) |
+| Geode: A Zero-shot Geospatial Question-Answering Agent with Explicit Reasoning and Precise Spatio-Temporal Retrieval | arXiv | 2024 | [pdf](https://arxiv.org/pdf/2407.11014) | - |
 
-### 💻 Programmatic GIS & Code Automation  
+
+## 💻 Programmatic GIS & Code Automation  
 *Agent role: GIS Programmer / Workflow Executor*
 
 | Title | Venue | Year | Paper | Code |
 |------|-------|------|-------|------|
-| GeoCode-GPT: LLM for Geospatial Code Generation | IJAEOG | 2025 | [pdf](https://www.sciencedirect.com/science/article/pii/S1569843225001037) | - |
-| GeoGraphRAG: Graph-based RAG for Geospatial Modeling | IJAEOG | 2025 | [pdf](https://www.sciencedirect.com/science/article/pii/S1569843225003590) | - |
-| GIS Copilot: Autonomous GIS Agent | IJDE | 2025 | [pdf](https://www.tandfonline.com/doi/pdf/10.1080/17538947.2025.2497489) | [code](https://shorturl.at/vRcm6) |
-| GeoCogent: LLM-Based Agent for Geospatial Code Generation | IJGIS | 2025 | [pdf](https://www.researchgate.net/profile/Shuyang-Hou/publication/394842371) | - |
-| GeoColab: Multi-Agent Geospatial Code Generation | IJDE | 2025 | [pdf](https://www.tandfonline.com/doi/pdf/10.1080/17538947.2025.2569405) | - |
-| ShapefileGPT | IJDE | 2025 | [pdf](https://www.tandfonline.com/doi/pdf/10.1080/17538947.2025.2577884) | - |
-| GeoJSON Agents | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2509.08863) | - |
-| GeoAgent: Automatic Geospatial Data Analysis | arXiv | 2024 | [pdf](https://arxiv.org/pdf/2410.18792) | [code](https://github.com/Yusin2Chen/GeoAgent) |
+| GeoCode-GPT: A Large Language Model for Geospatial Code Generation | International Journal of Applied Earth Observation and Geoinformation | 2025 | [pdf](https://www.sciencedirect.com/science/article/pii/S1569843225001037) | - |
+| GeoGraphRAG: A Graph-based Retrieval-Augmented Generation Approach for Empowering Large Language Models in Automated Geospatial Modeling | International Journal of Applied Earth Observation and Geoinformation | 2025 | [pdf](https://www.sciencedirect.com/science/article/pii/S1569843225003590) | - |
+| GIS Copilot: Towards an Autonomous GIS Agent for Spatial Analysis | International Journal of Digital Earth | 2025 | [pdf](https://www.tandfonline.com/doi/pdf/10.1080/17538947.2025.2497489) | [code](https://shorturl.at/vRcm6) |
+| GeoCogent: An LLM-Based Agent for Geospatial Code Generation | International Journal of GIS | 2025 | [pdf](https://www.researchgate.net/profile/Shuyang-Hou/publication/394842371) | - |
+| GeoColab: An LLM-Based Multi-Agent Collaborative Framework for Geospatial Code Generation | International Journal of Digital Earth | 2025 | [pdf](https://www.tandfonline.com/doi/pdf/10.1080/17538947.2025.2569405) | - |
+| ShapefileGPT: A Multi-Agent Large Language Model Framework for Automated Shapefile Processing | International Journal of Digital Earth | 2025 | [pdf](https://www.tandfonline.com/doi/pdf/10.1080/17538947.2025.2577884) | - |
+| GeoJSON Agents: A Multi-Agent LLM Architecture for Geospatial Analysis — Function Calling vs Code Generation | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2509.08863) | - |
+| An LLM Agent for Automatic Geospatial Data Analysis | arXiv | 2024 | [pdf](https://arxiv.org/pdf/2410.18792) | [code](https://github.com/Yusin2Chen/GeoAgent) |
 
 
-### 🛰️ Remote Sensing & Earth Observation  
+## 🛰️ Remote Sensing & Earth Observation  
 *Agent role: Earth Observation Analyst / Vision Reasoning Agent*
 
 | Title | Venue | Year | Paper | Code |
 |------|-------|------|-------|------|
-| RS-Agent: Automating Remote Sensing Tasks | arXiv | 2024 | [pdf](https://arxiv.org/pdf/2406.07089) | [code](https://github.com/IntelliSensing/RS-Agent) |
-| ThinkGeo: Tool-Augmented Agents for RS | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2505.23752) | [code](https://github.com/mbzuai-oryx/ThinkGeo) |
-| GeoLLM-Engine | CVPRW | 2024 | [pdf](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Singh_GeoLLM-Engine) | - |
-| VICoT-Agent | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2511.20085) | - |
-| Earth-Agent | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2509.23141) | [code](https://github.com/opendatalab/Earth-Agent) |
-| MineAgent | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2412.17339) | - |
-| RingMo-Agent | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2507.20776) | - |
-| Multi-Agent Geospatial Copilots | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2501.16254) | - |
+| Agentic AI in Remote Sensing: Foundations, Taxonomy, and Emerging Systems | arXiv | 2026 | [pdf](https://arxiv.org/pdf/2601.01891) | - |
+| RS-Agent: Automating Remote Sensing Tasks through Intelligent Agent | arXiv | 2024 | [pdf](https://arxiv.org/pdf/2406.07089) | [code](https://github.com/IntelliSensing/RS-Agent) |
+| ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2505.23752) | [code](https://github.com/mbzuai-oryx/ThinkGeo) |
+| GeoLLM-Engine: A Realistic Environment for Building Geospatial Copilots | CVPR Workshop | 2024 | [pdf](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Singh_GeoLLM-Engine) | - |
+| VICoT-Agent: A Vision-Interleaved Chain-of-Thought Framework for Interpretable Multimodal Reasoning and Scalable Remote Sensing Analysis | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2511.20085) | - |
+| Earth-Agent: Unlocking the Full Landscape of Earth Observation with Agents | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2509.23141) | [code](https://github.com/opendatalab/Earth-Agent) |
+| MineAgent: Towards Remote-Sensing Mineral Exploration with Multimodal Large Language Models | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2412.17339) | - |
+| RingMo-Agent: A Unified Remote Sensing Foundation Model for Multi-Platform and Multi-Modal Reasoning | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2507.20776) | - |
+| Multi-Agent Geospatial Copilots for Remote Sensing Workflows | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2501.16254) | - |
 
 
-### 📊 Planning, Optimization & Decision Support  
+## 📊 Planning, Optimization & Decision Support  
 *Agent role: Planning Agent / Optimization Assistant*
 
 | Title | Venue | Year | Paper | Code |
 |------|-------|------|-------|------|
-| REMSA | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2511.17442) | [code](https://github.com/be-chen/REMSA) |
-| GeoEvolve | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2509.21593) | - |
-| Satellite Scheduling with LLM Agents | Engineering Journal | 2025 | [pdf](https://www.sciencedirect.com/science/article/pii/S2095809925006654) | - |
-| Smart City Management with LLM Agents | Smart Cities | 2025 | [pdf](https://www.mdpi.com/2624-6511/8/1/19) | [code](https://github.com/ITMO-NSS-team/llm-agents-for-smartcities-paper) |
-| PlanGPT | ACL | 2025 | [pdf](https://aclanthology.org/2025.acl-industry.54.pdf) | - |
-| DA4DTE | DARES | 2025 | [pdf](https://dares25.github.io/papers/DARES25_paper_14.pdf) | [code](https://github.com/rsim-tu-berlin/DA4DTE/) |
-| Urban Planning AI Agent (Vision) | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2507.14730) | - |
-| Agentic Urban AI (Vision) | Urban Informatics | 2025 | [pdf](https://link.springer.com/content/pdf/10.1007/s44212-025-00079-7.pdf) | - |
+| REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2511.17442) | [code](https://github.com/be-chen/REMSA) |
+| GeoEvolve: Automating Geospatial Model Discovery via Multi-Agent Large Language Models | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2509.21593) | - |
+| A Large Language Model-Based Multi-Agent Framework to Autonomously Design Algorithms for Earth Observation Satellite Scheduling Problem | Engineering Journal | 2025 | [pdf](https://www.sciencedirect.com/science/article/pii/S2095809925006654) | - |
+| LLM Agents for Smart City Management: Enhancing Decision Support Through Multi-Agent AI Systems | Smart Cities | 2025 | [pdf](https://www.mdpi.com/2624-6511/8/1/19) | [code](https://github.com/ITMO-NSS-team/llm-agents-for-smartcities-paper) |
+| PlanGPT: Enhancing Urban Planning with a Tailored Agent Framework | ACL | 2025 | [pdf](https://aclanthology.org/2025.acl-industry.54.pdf) | - |
+| DA4DTE: An Agentic System for Enhancing the Accessibility of Digital Twins of Earth | DARES | 2025 | [pdf](https://dares25.github.io/papers/DARES25_paper_14.pdf) | [code](https://github.com/rsim-tu-berlin/DA4DTE/) |
+| Towards Urban Planning AI Agent in the Age of Agentic AI | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2507.14730) | - |
+| Conceptualising the Emergence of Agentic Urban AI: From Automation to Agency | Urban Informatics | 2025 | [pdf](https://link.springer.com/content/pdf/10.1007/s44212-025-00079-7.pdf) | - |
+
 
 ## 🚶 Human-Centric Mobility & Urban Interaction  
 *Agent role: Navigation Agent / Urban Behavior Simulator*
 
 | Title | Venue | Year | Paper | Code |
 |------|-------|------|-------|------|
-| LLMob: Urban Mobility Generation | NeurIPS | 2024 | [pdf](https://proceedings.neurips.cc/paper_files/paper/2024/file/e142fd2b70f10db2543c64bca1417de8-Paper-Conference.pdf) | [code](https://github.com/Wangjw6/LLMob/) |
-| PReP: City Navigation Agent | arXiv | 2024 | [pdf](https://arxiv.org/pdf/2408.04168) | [code](https://anonymous.4open.science/r/PReP-13B5) |
-| MapBot | AAMAS | 2025 | [pdf](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p3059.pdf) | - |
+| Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation | NeurIPS | 2024 | [pdf](https://proceedings.neurips.cc/paper_files/paper/2024/file/e142fd2b70f10db2543c64bca1417de8-Paper-Conference.pdf) | [code](https://github.com/Wangjw6/LLMob/) |
+| Perceive, Reflect, and Plan: Designing LLM Agent for Goal-Directed City Navigation without Instructions | arXiv | 2024 | [pdf](https://arxiv.org/pdf/2408.04168) | [code](https://anonymous.4open.science/r/PReP-13B5) |
+| MapBot: A Multi-Modal Agent for Geospatial Analysis | AAMAS | 2025 | [pdf](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p3059.pdf) | - |
