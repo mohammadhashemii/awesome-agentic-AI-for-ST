@@ -26,6 +26,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ### Year 2026
 - **![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369) [arXiv 2026] A Comprehensive Survey of Agentic AI for Spatio-Temporal Data** [[pdf]](https://arxiv.org/abs/xxxx.xxxxx) [[paper list]](https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST)
 
+- **[arXiv 2026]** STReasoner: Empowering LLMs for Spatio-Temporal Reasoning in Time Series via Spatial-Aware Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2601.03248) [[code]](https://github.com/LingFengGold/STReasoner)
+
 - **[arXiv 2026]** Agentic AI in Remote Sensing: Foundations, Taxonomy, and Emerging Systems [[pdf]](https://arxiv.org/pdf/2601.01891)
 
 ### Year 2025
