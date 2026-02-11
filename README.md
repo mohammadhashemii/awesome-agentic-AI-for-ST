@@ -13,11 +13,14 @@ s
 If you find this repo helpful, we would appreciate it if you could cite our survey.
 
 ```
-@article{hashemi2026comprehensive,
-  title={A Comprehensive Survey of Agentic AI for Spatio-Temporal Data},
-  author={Hashemi, Mohammad and Zufle, Andreas},
-  journal={arXiv preprint},
-  year={2026}
+@article{hashemi2026agentic,
+  title   = {A Comprehensive Survey of Agentic AI for Spatio-Temporal Data},
+  author  = {Hashemi, Mohammad and Z{\"u}fle, Andreas},
+  journal = {Preprints},
+  volume  = {2026},
+  pages   = {2026012236},
+  year    = {2026},
+  doi     = {10.20944/preprints202601.2236.v1}
 }
 ```
 
