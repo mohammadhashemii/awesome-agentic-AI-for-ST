@@ -28,6 +28,10 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Year 2026
 
+- **[ICSE 2026]** GeoAIAgent-Agentic workflow for automated geospatial data management [[pdf]](https://research.ibm.com/publications/geoaiagent-agentic-workflow-for-automated-geospatial-data-management)
+
+- **[International Journal of Digital Earth]** Bridging natural language and GIS: a multi-agent framework for LLM-driven autonomous geospatial analysis [[pdf]](https://www.tandfonline.com/doi/full/10.1080/17538947.2026.2633849#abstract)
+
 - **[International Journal of GIS]** GeoAgent: a hierarchical LLM-based multi-agent architecture for autonomous spatial analysis [[pdf]](https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2624784?scroll=top&needAccess=true)
 
 - **![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369) [arXiv 2026] A Comprehensive Survey of Agentic AI for Spatio-Temporal Data** [[pdf]](https://www.preprints.org/manuscript/202601.2236) [[paper list]](https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST)
@@ -156,7 +160,8 @@ goal-directed city navigation without instructions [[pdf]](https://arxiv.org/pdf
 
 | Title | Venue | Year | Paper | Code |
 |------|-------|------|-------|------|
-| GeoAgent: a hierarchical LLM-based multi-agent architecture for autonomous spatial analysis | International Journal of GIS | 2026 | [pdf]https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2624784?scroll=top&needAccess=true) | - |
+| Bridging natural language and GIS: a multi-agent framework for LLM-driven autonomous geospatial analysis | International Journal of Digital Earth | 2026 | [pdf](https://www.tandfonline.com/doi/full/10.1080/17538947.2026.2633849#abstract) | - |
+| GeoAgent: a hierarchical LLM-based multi-agent architecture for autonomous spatial analysis | International Journal of GIS | 2026 | [pdf](https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2624784?scroll=top&needAccess=true) | - |
 | GeoSR: Cognitive-Agentic Framework for Probing Geospatial Knowledge Boundaries via Iterative Self-Refinement | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2508.04080) | [code](https://github.com/JinfanTang/GeoSR) |
 | Intelligent National Map: A Vision for Distributed and Agentic Geospatial Intelligence | EarthArXiv | 2025 | [pdf](https://eartharxiv.org/repository/object/10064/download/18643/) | - |
 | GeoAgent: An Agentic AI Framework for Spatial Query Understanding and Interactive Geospatial Intelligence | SIGSPATIAL | 2025 | [pdf](https://dl.acm.org/doi/abs/10.1145/3764915.3770719) | - |
